@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejspetersons&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejspetersons&layout=pie)
 <h1 align="center">Hi 👋, I'm Andrey Peterson</h1>
 <h3 align="center">I am a passionate .NET C# Developer from Riga,Latvia</h3>
 
