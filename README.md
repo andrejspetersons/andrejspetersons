@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Andrey Peterson</h1>
 <h3 align="center">A passionate .NET C# Software Developer From Latvia</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDI0Mm80dW5jcTFpOGIxZnNkZzdkMXg2d2RsNTZqd3BxMWZoM2ExYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="300" width="400">
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrejspetersons&label=Profile%20views&color=0e75b6&style=flat" alt="andrejspetersons" /> </p>
 
 - 👯 I’m looking to collaborate on **.NET Core Projects**
